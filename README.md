@@ -1,6 +1,6 @@
 <h1 align="center"> <i> Predator-Phish V.1.0 </i> </h1>
 <p align="center">
-  <img width="450px" height="280px" src="https://s5.aconvert.com/convert/p3r68-cdx67/dbyl2-rp6ch.gif" alt="PREVIEW">
+  <img width="450px" height="275px" src="https://s5.aconvert.com/convert/p3r68-cdx67/dbyl2-rp6ch.gif" alt="PREVIEW">
 </p>
 <hr>
 
