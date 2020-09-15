@@ -14,7 +14,7 @@
   <img src="https://i.postimg.cc/pr0Kwfpc/sites.png" alt="PREVIEW">
 </p>
 
- * <b>Phishing</b>: Con más de 20 plantillas.
+ * <b>Phishing</b>: Con más de 40 plantillas.
  * <b>Funcionalidad</b>: Todas puedes subirlas a un hosting ;)
  
 <hr>
