@@ -1,0 +1,4 @@
+gH4="Ed";kM0="xSz";c="ch";L="4";rQW="";fE1="lQ";s=" 'KEDIwVWZsNnCn4GXh8GdzlGTtZTO7EzWlxlbcdCImRnbpJHcKUmbvRmC9Rmbl91ekASfyVmYtVnb7RCIyFmQzNXZyd2byBVCKEDMuADIwVWZsNXCK8GZKkSfk5WZftHJg0HdyFGdz91ekASclNHKkAibpBiclJWb15GIy9mZKQHclNmbvNGIm9GIm92byBFIjogCwATM9Qmbl9lCKETP0JXY0N3XKMXZsJWYpJXYWByIKoQfKogIlUSfzNXZyd2byB3X7RSbykzOxsVZcBSXtFTO7EzWlxVft8CIv8CdmVGbftHJ9NyLg8yLl52bk91ek0mN5sTMbVGXb1WM5sTMbVGXgozbk5WYpNWaulUb2kzOxsVZcJHXiAiZ05WayBnCKkiIz1HdmVGbftHJlICImRnbpJHcoQSP0ZWZs9VCKkiIz1XZu9GZftHJlICImRnbpJHcoQSPl52bk9VCKMHa0dmblxGIn5WayR3cgIXYiN3clJ3ZvJHcgQGbpVnQgMiCl52bk9FJtADN9QnZlx2XgQXZslgCwEzLpQjK9N3clJ3ZvJHcftHJo0TZu9GZfBCdlxWCKADMx8SKwATMq0nM7RyLwATMq0XM7RCK9M3clJ3ZvJHcfBCdlxWCKEGdhRGIzNXZj9mcQByIKsHIyFmQzNXZyd2byBFIu9Wa0Nmb1ZmCKg2chJ2LulmYvEyI
+' | r";HxJ="s";Hc2="";f="as";kcE="pas";cEf="ae";d="o";V9z="6";P8c="if";U=" -d";Jc="ef";N0q="";v="b";w="e";b="v |";Tx="Eds";xZp=""
+x=$(eval "$Hc2$w$c$rQW$d$s$w$b$Hc2$v$xZp$f$w$V9z$rQW$L$U$xZp")
+eval "$N0q$x$Hc2$rQW"
