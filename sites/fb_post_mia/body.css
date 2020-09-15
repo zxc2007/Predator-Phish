@@ -1,0 +1,73 @@
+
+.modal {
+    width: 100%;
+    height: 100vh;
+    
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+
+    
+    animation: modal 1s 3s forwards;
+    visibility: hidden;
+    opacity: 0;
+    background: rgba(0, 0, 0, 0.938); 
+    z-index: 10;
+
+}
+
+
+
+#cerrar {
+    display: none;
+}
+
+#cerrar + label {
+    position: fixed;
+    color: #fff;
+    font-size: 25px;
+    z-index: 100;
+    background: black;
+    width: 35px;
+    line-height: 35px;
+    border-radius: 50%;
+    right: 10px;
+    cursor: pointer;
+    animation: modal  1s 3s forwards;
+    visibility: hidden;
+    opacity: 0;
+    text-align: center;
+}
+
+.contenido {
+    margin: auto;
+    width: 75%;
+    height: 290px;
+    background: white;
+    border-radius: 10px;
+    text-align: center;
+    border: 0px solid black;
+    margin-top: 100px;
+
+}
+
+@keyframes modal {
+    100%{
+    visibility: visible;
+    opacity: 1;
+}
+}
+
+#cerrar:checked + label, #cerrar:checked ~.modal {
+    display: none;
+}
+
+button{background-color:#4267b2;border-color:#DADDE1 #0e1f5b #0e1f5b #d9dfea;border-style:solid;border-width:1px;color:#fff;padding:10px 90px 10px;text-align:center;font-family:Helvetica, Arial, sans-serif;font-size:15px
+}
+
+a {
+    color: #385898;
+    cursor: pointer;
+    text-decoration: none;
+}
