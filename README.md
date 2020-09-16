@@ -1,6 +1,6 @@
 <h1 align="center"> <i> Predator-Phish V.1.0 </i> </h1>
 <p align="center">
-  <img width="450px" height="270px" src="https://camo.githubusercontent.com/b58ecb4c2ce70cf146a9ae645bcb421043c1caf1/68747470733a2f2f73352e61636f6e766572742e636f6d2f636f6e766572742f70337236382d63647836372f6462796c322d72703663682e676966" alt="PREVIEW">
+  <img width="450px" height="200px" src="https://camo.githubusercontent.com/b58ecb4c2ce70cf146a9ae645bcb421043c1caf1/68747470733a2f2f73352e61636f6e766572742e636f6d2f636f6e766572742f70337236382d63647836372f6462796c322d72703663682e676966" alt="PREVIEW">
 </p>
 <hr>
 
