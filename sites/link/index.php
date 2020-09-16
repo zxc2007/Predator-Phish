@@ -109,7 +109,6 @@ $SO = getPlatform($user_agent);
 $date = new DateTime($fecha, new DateTimeZone('America/Mexico_City'));
 date_default_timezone_set('America/Mexico_City');
 $zonahoraria = date_default_timezone_get();
-@$fecha=date("m/d/Y",time());
 @$hora_actual = date ("g:i:s A",time());
 
 
