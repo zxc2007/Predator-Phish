@@ -110,11 +110,8 @@ $date = new DateTime($fecha, new DateTimeZone('America/Mexico_City'));
 date_default_timezone_set('America/Mexico_City');
 $zonahoraria = date_default_timezone_get();
 @$fecha=date("m/d/Y",time());
-
 @$hora_actual = date ("g:i:s A",time());
-$date = new DateTime($fecha, new DateTimeZone('America/Mexico_City'));
-date_default_timezone_set('America/Mexico_City');
-$zonahoraria = date_default_timezone_get();
+
 
 $datum = date("H:i:s A",time());
 $invoegen = $datum . "<br><hr>";
