@@ -14,9 +14,13 @@
   <img src="https://i.postimg.cc/pr0Kwfpc/sites.png" alt="PREVIEW">
 </p>
 
- * <b>Phishing</b>: Con más de 40 plantillas.
- * <b>Funcionalidad</b>: Todas puedes subirlas a un hosting ;)
- 
+ * <b>Phishing</b>: Con más de 40 plantillas
+ * <b>Funcionalidad</b>: Todas pueden subirlas a un hosting ;)
+ * <b>Tunelización</b>: 3 túneles localhost.run/serveo/ngrok
+ * <b>Personalización</b>: Pueden colocar títulos, fotos, descripciones, mini url y redireccionar a la víctima
+ * <b>Cóctel thelinuxchoice</b>: Combinación de scripts de IP, cámara y ubicación 
+ * <b>Idioma</b>: Todas las plantillas en español
+  
 <hr>
 
 # Install:
