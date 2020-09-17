@@ -1,4 +1,4 @@
-<h1 align="center"> <i> Predator-Phish V.1.0 </i> </h1>
+<h1 align="center"> <i> Predator-Phish V.2.0 </i> </h1>
 <p align="center">
   <img width="450px" height="210px" src="https://camo.githubusercontent.com/b58ecb4c2ce70cf146a9ae645bcb421043c1caf1/68747470733a2f2f73352e61636f6e766572742e636f6d2f636f6e766572742f70337236382d63647836372f6462796c322d72703663682e676966" alt="PREVIEW">
 </p>
@@ -67,7 +67,7 @@ facebook_pc        google_pc       messenger
 ---
 
 <!-- MarkDown Links & Images -->
-[version]: https://img.shields.io/badge/Versi%C3%B3n-BETA%3A%20V.1.0-orange
+[version]: https://img.shields.io/badge/Versi%C3%B3n-BETA%3A%20V.2.0-orange
 [tested]: https://img.shields.io/badge/Probado-Kali%20Linux%20%7C%20Userland%20%7C%20Termux-blue
 [autor]: https://img.shields.io/badge/Author-%40Th3__Pr3dat0r-green
 
