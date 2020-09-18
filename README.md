@@ -1,6 +1,6 @@
 <h1 align="center"> <i> Predator-Phish V.2.0 </i> </h1>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/55555800/93632258-a8d13800-f9b2-11ea-8a3e-7947adcf8763.gif" alt="PREVIEW">
+  <img src="https://user-images.githubusercontent.com/55555800/93633798-26964300-f9b5-11ea-9b7b-db5f740d4a6a.gif" alt="PREVIEW">
 </p>
 <hr>
 
@@ -11,7 +11,7 @@
 <h2 align="center"> Herramienta avanzada de Phishing! </h3>
 
 <p align="center">
-  <img src="https://i.postimg.cc/pr0Kwfpc/sites.png" alt="PREVIEW">
+  <img src="https://user-images.githubusercontent.com/55555800/93633128-fa42ec80-f9dd-11ea-9307-1d4ccbbd0a6f.png" alt="PREVIEW">
 </p>
 
  * <b>Phishing</b>: Con más de 40 plantillas
@@ -24,6 +24,9 @@
  * <b>Idioma</b>: Todas las plantillas en español
   
 <hr>
+
+# Emails Spoofing:
+<img src="https://user-images.githubusercontent.com/55555800/93633155-06c74500-f9de-11ea-9ad9-b72847440a4e.png" alt="PREVIEW">
 
 # Install:
 <br>
