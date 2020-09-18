@@ -25,7 +25,7 @@
   
 <hr>
 
-# Emails Spoofing:
+# Email Spoofing:
 <img src="https://user-images.githubusercontent.com/55555800/93633155-06c74500-f9de-11ea-9ad9-b72847440a4e.png" alt="PREVIEW">
 
 # Install:
