@@ -11,7 +11,7 @@
 <h2 align="center"> Herramienta avanzada de Phishing! </h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/55555800/93633128-fa42ec80-f9dd-11ea-9307-1d4ccbbd0a6f.png" alt="PREVIEW">
+  <img src="" alt="PREVIEW">
 </p>
 
  * <b>Phishing</b>: Con más de 40 plantillas
@@ -26,7 +26,10 @@
 <hr>
 
 # Email Spoofing:
-<img src="https://user-images.githubusercontent.com/55555800/93633155-06c74500-f9de-11ea-9ad9-b72847440a4e.png" alt="PREVIEW">
+<img src="https://user-images.githubusercontent.com/55555800/93633155-06c74500-f9de-11ea-9ad9-b72847440a4e.png" alt="PREVIEW"  align="center">
+
+## Resultado de Gmail:
+<img src="https://user-images.githubusercontent.com/55555800/93635113-59d9d180-f9b7-11ea-813d-55b0cc2a1482.jpg" alt="PREVIEW"  align="center">
 
 # Install:
 <br>
